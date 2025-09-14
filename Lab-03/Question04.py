@@ -11,7 +11,6 @@ def Dictionary(list1,list2,size):
     myDictionary = {}
     for i in range(0,size):
         myDictionary[list1[i]] = list2[i]
-    with open("file.txt","w") as file:
-        file.write(str(myDictionary))
     return myDictionary
 print(Dictionary(list1,list2,size))
+
