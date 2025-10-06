@@ -1,0 +1,5 @@
+Name:Bajwa
+CNIC:33101-2047057-9
+Age:21
+Salary:45000
+Contact:03218964804
